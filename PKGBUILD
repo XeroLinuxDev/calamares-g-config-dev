@@ -2,7 +2,7 @@
 pkgname=calamares-g-config-dev
 _destname1="/etc"
 pkgver=22.11
-pkgrel=7
+pkgrel=8
 pkgdesc="calamares Config for XeroLinux Dev"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
